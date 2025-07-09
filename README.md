@@ -6,5 +6,5 @@
 
 ```bash
 apt-get upgrade
+```bash
 apt-get update
-
