@@ -4,4 +4,4 @@
 
 ### 1. Atualize os pacotes:
 ```bash
-apt-get upgrade && apt-get update && apt upgrade -y && apt update -y && apt install nodejs -y && apt install nodejs-lts -y  && apt install ffmpeg -y && apt install wget -y && apt install git -y
+apt-get upgrade & apt-get update & apt upgrade -y & apt update -y & apt install nodejs -y & apt install nodejs-lts -y  & apt install ffmpeg -y && apt install wget -y & apt install git -y
