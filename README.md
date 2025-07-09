@@ -1,4 +1,4 @@
-# Meu Bot WhatsApp 🤖
+# Comandos para ligar o bot🤖
 
 ![Banner](./banner.png)
 
