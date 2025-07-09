@@ -1,6 +1,6 @@
 # Comandos para ligar o bot 🤖
 
-![Banner](./arquivos/imagem/tony-bot.png)
+![Banner](https://files.catbox.moe/4x6klr.jpg)
 
 ### 1. Atualize os pacotes:
 ```bash
