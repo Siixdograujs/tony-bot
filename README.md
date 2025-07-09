@@ -3,7 +3,6 @@
 ![Banner](./banner.png)
 
 ### 1. Atualize os pacotes:
-
+```bash
 apt-get upgrade
-```&bnsp
 apt-get update
