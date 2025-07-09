@@ -4,7 +4,6 @@
 
 ### 1. Atualize os pacotes:
 
-```bash
 apt-get upgrade
-```bash
+```&bnsp
 apt-get update
