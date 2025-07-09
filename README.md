@@ -4,7 +4,7 @@
 
 ## COMANDOS:
 
-```bash
-apt-get upgrade
-apt-get update
+`apt-get upgrade`
+&nbsp
+`apt-get update`
 
