@@ -10,4 +10,7 @@ Um bot completo para WhatsApp usando a biblioteca **Baileys MD**, com suporte a 
 
 ### 1. Atualize os pacotes:
 ```bash
-apt update && apt upgrade -y
+
+apt update && apt upgrade```
+
+mmmm##oii
