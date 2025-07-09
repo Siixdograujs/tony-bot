@@ -1,10 +1,9 @@
-# Comandos para ligar o bot🤖
+# Comandos para ligar o bot 🤖
 
 ![Banner](./banner.png)
 
-## COMANDOS:
+## ⚙️ COMANDOS:
 
-`apt-get upgrade`
-&nbsp
-`apt-get update`
-
+### 1. Atualize os pacotes:
+```bash
+apt-get update
