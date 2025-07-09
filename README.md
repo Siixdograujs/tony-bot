@@ -2,8 +2,9 @@
 
 ![Banner](./banner.png)
 
-## Como usar
+## COMANDOS:
 
 ```bash
-node start.js
+apt-get upgrade
+apt-get update
 
