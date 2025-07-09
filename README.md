@@ -4,6 +4,6 @@
 
 ### 1. Atualize os pacotes:
 ```bash
-apt-get upgrade
+[ copiar ] apt-get upgrade
 apt-get update
 
