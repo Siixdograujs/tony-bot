@@ -12,6 +12,4 @@ apt install nodejs -y
 apt install nodejs-lts -y
 apt install ffmpeg -y
 apt install wget -y
-apt install git -y ```
-
-###oii
+apt install git -y
