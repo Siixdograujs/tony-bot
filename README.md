@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@dev_matheus1.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-@SiixModz-red.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.1-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -38,10 +38,10 @@ Espere carregar tudo
 ## Acessando e iniciando a base
 **4° Comando**
 ```
-cd angel-base && npm start
+cd tony-bot && npm start
 ```
 
-## 🖲️ STARTS DA BASE 🖲
+##  STARTS DA BASE
 ```
 npm start
 ```
@@ -49,4 +49,4 @@ npm start
 sh start.sh
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=YAKASHI-BOT"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Tony-bot"> 
