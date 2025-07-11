@@ -41,7 +41,7 @@ Espere carregar tudo
 cd tony-bot && npm start
 ```
 
-##  STARTS DA BASE
+##  STARTS DO BOT
 ```
 npm start
 ```
