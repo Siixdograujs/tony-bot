@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=YAKASHI-BOT-OFC">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Tony-bot v1">      
 
 <h1 align="center">
 <p>
-<img src= "https://i.ibb.co/99jD46xb/IMG-20250310-WA0065.jpg" alt="YAKASHI-BOT" width="720">
+<img src= "https://i.ibb.co/99jD46xb/IMG-20250310-WA0065.jpg" alt="Tony bot" width="720">
 </p>
 
 <p align="center">
