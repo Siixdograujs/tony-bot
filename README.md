@@ -31,14 +31,14 @@ Necessário digitar y quando necessario.
 ## Clonando repositorio
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/euyato/angel-base.git
+cd /sdcard && git clone https://github.com/Siixdograujs/tony-bot.git
 ```
 Espere carregar tudo
 
 ## Acessando e iniciando a base
 **4° Comando**
 ```
-cd tony-bot && npm start
+cd tony-bot && sh start.sh
 ```
 
 ##  STARTS DO BOT
